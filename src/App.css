@@ -2,8 +2,7 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-    'Lucida Sans', Arial, sans-serif;
+  font-family: 'Arial'
 }
 
 body {
@@ -102,7 +101,7 @@ h1 {
 
   padding: 16px;
   border-radius: 5px;
-  width: 90%;
+  width: 80%;
 }
 
 .todo-row:nth-child(4n + 1) {
