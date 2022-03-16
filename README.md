@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# 🚀 to-do-simples
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="react" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
+</p>
 
-## Available Scripts
+## 📫 Visualização do projeto
 
-In the project directory, you can run:
+<img size='100%' src="https://i.ibb.co/hyLGdDf/Captura-de-tela-2022-03-16-095729.png" alt="Captura-de-tela-2022-03-16-083320" border="0">
 
-### `npm start`
+## 🤝 Clonar o projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+No GitHub.com, navegue até a página principal do repositório.
+Acima da lista de arquivos, clique em baixar o código como na imagem abaixo código. <br />
+<img width="30%%" src="https://docs.github.com/assets/cb-20363/images/help/repository/code-button.png" /> 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Para clonar o repositório usando HTTPS, em "Clonar com HTTPS", clique em "copiar". <br />
+<img width="30%%" src="https://docs.github.com/assets/cb-36330/images/help/repository/https-url-clone.png" /> 
 
-### `npm test`
+Abra Git Bash.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado
 
-### `npm run build`
+Digite ```git clone``` (clonar git) e cole a URL que você copiou anteriormente.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Pressione Enter para criar seu clone local.
+ ```
+ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+ Cloning into `Spoon-Knife`...
+ remote: Contando objetos: 10, concluído.
+ remote: Compactando objetos: 100% (8/8), concluído.
+ remove: Total 10 (delta 1), reused 10 (delta 1)
+ Unpacking objects: 100% (10/10), done.
+ ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📫 Contribuindo para o Portfólio
 
-### `npm run eject`
+Para contribuir com o Portfólio, siga estas etapas:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. Bifurque este repositório.
+2. Crie um branch: `git checkout -b <nome_branch>`.
+3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
+4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
+5. Crie a solicitação de pull.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
